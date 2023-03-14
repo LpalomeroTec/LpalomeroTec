@@ -1,4 +1,4 @@
-### Hi there 👋
+### Welcome to my profile! 👋
 
  <div>
    <a href="https://github.com/LpalomeroTec">
@@ -14,7 +14,7 @@
  
  <br>
  
-  ### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+  ### My socials and cotact below:
  
 <div> 
 
