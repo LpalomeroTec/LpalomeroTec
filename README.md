@@ -19,7 +19,7 @@
 <div> 
 
   <a href="https://instagram.com/lpalomero_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  https://www.linkedin.com/in/lucas-palomero-7b7644a8/?trk=opento_sprofile_topcard
+  <a href="https://www.linkedin.com/in/lucas-palomero-7b7644a8/?trk=opento_sprofile_topcard" target="_blank"><img src="https://img.shields.io/badge/-linkedin-%23E4405F?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  
  
   ![Snake animation](https://github.com/lpalomerotec/lpalomerotec/blob/output/github-contribution-grid-snake.svg)
